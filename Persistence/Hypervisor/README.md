@@ -11,7 +11,7 @@ For this box, we are assuming that the target is a Windows Server as the likelin
 **Potential Attacks:** ```Get-WindowsFeature -Name Hyper-V -ComputerName WIN-TKG4GPI458E
 Install-WindowsFeature -Name Hyper-V -ComputerName WIN-TKG4GPI458E -IncludeManagementTools```
 
-![](../images/T1062_Execute.PNG)
+![](/pictures/T1062_Execute.PNG)
 
 ## Detection -- Visibility -- Filter/ Correlation Rule
 
