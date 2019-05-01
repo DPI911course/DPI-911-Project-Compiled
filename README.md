@@ -35,6 +35,26 @@ This repo is a compiled version of the following groups projects for the DPI911 
 
 
 ## Persistence
+
+- [x] [Browser Extensions](Persistence/Browser%20Extensions/Browser%20Extensions%20-%20Persistence.md)
+- [x] [Change Default File Association](Persistence/Change%20Default%20File%20Association/Change%20Default%20File%20Association.md)
+- [x] [Create Account](Persistence/Create%20Account/T1136%20-%20Create%20Account.md)
+- [x] [DLL Search Order Hijacking](Persistence/DLL%20Search%20Order%20Hijacking/T1038%20-%20DLL%20Search%20Order%20Hijacking.md)
+- [ ] [External Remote Services](Persistence/External%20Remote%20Services/T1133%20-%20External%20Remote%20Services.md)
+- [ ] [File System Permissions Weakness](Persistence/File%20System%20Permissions%20Weakness/T1044%20-%20File%20System%20Permissions%20Weakness.md)
+- [x] [Hidden Files and Directories](Persistence/Hidden%20Files%20and%20Directories/T1158%20-%20Hidden%20Files%20and%20Directories.md)
+- [x] [Hypervisor](Persistence/Hypervisor/README.md)
+- [x] [Logon Scripts](Persistence/Logon%20Scripts/README.md)
+- [x] [Modify Existing Service](Persistence/Modify%20Existing%20Service/README.md)
+- [x] [Netsh Helper DLL](Persistence/Netsh%20Helper%20DLL/README.md)
+- [x] [New Service](Persistence/New%20Service/README.md)
+- [x] [Office Application Startup](Persistence/Office%20Application%20Startup/README.md)
+- [x] [Path Interception](Persistence/Path%20Interception/README.md)
+- [x] [Port Monitors](Persistence/Port%20Monitors/README.md)
+- [ ] [Redundant Access](Persistence/Redundant%20Access/README.md)
+- [x] [Registry Run Keys and Startup Folder](Persistence/Registry%20Run%20Keys%20and%20Startup%20Folder/README.md)
+- [x] [SIP and Trust Provider Hijacking](Persistence/SIP%20and%20Trust%20Provider%20Hijacking/README.md)
+- [x] [Scheduled Task](Persistence/Scheduled%20Task/readme.md)
 - [x] [Screensaver](Persistence/Screensaver/README.md)
 - [x] [Security Support Provider](Persistence/Security%20Support%20Provider/README.md)
 - [x] [Service Registry Permissions Weakness](Persistence/Service%20Registry%20Permissions%20Weakness/README.md)
