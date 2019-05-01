@@ -115,7 +115,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [ ] [Two-Factor Authentication Interception](Credential%20Access/Two-Factor%20Authentication%20Interception/Two-Factor%20Authentication%20Interception.md)
 
 ## Discovery
-- [x] [Network Service Scanning](Discovery/Network%20Service%20Scanning/Network Service Scanning.md)
+- [x] [Network Service Scanning](Discovery/Network%20Service%20Scanning/Network%20Service%20Scanning.md)
 - [ ] [Peripheral Device Discovery](Discovery/Peripheral%20Device%20Discovery/README.md)
 - [x] [Permission Groups Discovery](Discovery/Permission%20Groups%20Discovery/README.md)
 - [x] [Process Discovery](Discovery/Process%20Discovery/Readme.md)
