@@ -98,7 +98,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Masquerading](Defense%20Evasion/Masquerading/README.md)
 - [x] [Process Injection](Defense%20Evasion/Process%20Injection/T1055%20-%20Process%20Injection.md)
 - [ ] [Redundant Access](Defense%20Evasion/Redundant%20Access/T1108%20-%20Redundant%20Access.md)
-- [] [Regsvcs & Regasm](Defense%20Evasion/Regsvcs%20&%20Regasm/T1121%20-%20Regsvcs%20&%20Regasm.md)
+- [ ] [Regsvcs & Regasm](Defense%20Evasion/Regsvcs%20&%20Regasm/T1121%20-%20Regsvcs%20&%20Regasm.md)
 - [x] [Regsvr32](Defense%20Evasion/Regsvr32/T1117%20-%20Regsvr32.md)
 - [ ] [Rootkit](Defense%20Evasion/Rootkit/T1014%20-%20Rootkit.md)
 - [ ] [Rundll32](Defense%20Evasion/Rundll32/T1085%20-%20Rundll32.md)
