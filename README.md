@@ -28,6 +28,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Mshta](Execution/Mshta/README.md)
 - [x] [PowerShell](Execution/PowerShell/README.md)
 - [x] [Regsvcs-Regasm](Execution/Regsvcs-Regasm/README.md)
+- [x] [Rundll32](Execution/Rundll32/README.md)
 - [x] [Service Execution](Execution/Service%20Execution/Service%20Execution.md)
 - [x] [Signed Binary Proxy Execution](Execution/Signed%20Binary%20Proxy%20Execution/T1218%20-%20Signed%20Binary%20Proxy%20Execution.md)
 - [x] [Signed Script Proxy Execution](Execution/Signed%20Script%20Proxy%20Execution/T1216%20-%20Signed%20Script%20Proxy%20Execution.md)
