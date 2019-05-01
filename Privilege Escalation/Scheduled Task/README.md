@@ -9,7 +9,7 @@ An adversary may use task scheduling to execute programs at system startup or on
 
 **Potential Attacks:** ```SCHTASKS /Create /SC ONCE /TN spawn /TR C:\windows\system32\cmd.exe /ST 12:00```
 
-![](../images/T1053_Execute.PNG)
+![](pictures/T1053_Execute.PNG)
 
 
 ## Detection -- Visibility -- Filter/ Correlation Rule
