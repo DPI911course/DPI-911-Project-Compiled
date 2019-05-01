@@ -20,6 +20,19 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Control Panel Items](Execution/Control%20Panel%20Items/README.md)
 - [x] [Dynamic Data Exchange](Execution/Dynamic%20Data%20Exchange/README.md)
 - [ ] [Execution through API](Execution/Execution%20through%20API/README.md)
+- [ ] [Execution through Module Load](Execution/Execution%20through%20Module%20Load/README.md)
+- [ ] [Exploitation for Client Execution](Execution/Exploitation%20for%20Client%20Execution/T1203.md)
+- [ ] [Graphical User Interface](Execution/Graphical%20User%20Interface/Readme.md)
+- [x] [InstallUtil](Execution/InstallUtil/README.md)
+- [x] [LSASS Driver](Execution/LSASS%20Driver/README.md)
+- [x] [Mshta](Execution/Mshta/README.md)
+- [x] [PowerShell](Execution/PowerShell/README.md)
+- [x] [Regsvcs-Regasm](Execution/Regsvcs-Regasm/README.md)
+- [x] [Service Execution](Execution/Service%20Execution/Service%20Execution.md)
+- [x] [Signed Binary Proxy Execution](Execution/Signed%20Binary%20Proxy%20Execution/T1218%20-%20Signed%20Binary%20Proxy%20Execution.md)
+- [x] [Signed Script Proxy Execution](Execution/Signed Script%20Proxy%20Execution/T1216%20-%20Signed%20Script%20Proxy%20Execution.md)
+- [x] [Third-Party Software](Execution/Third-Party%20Software/Third-Party%20Software%20-%20Execution.md)
+
 
 ## Persistence
 - [x] [Screensaver](Persistence/Screensaver/README.md)
