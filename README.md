@@ -130,6 +130,11 @@ This repo is a compiled version of the following groups projects for the DPI911 
 ## Lateral Movement
 - [x] [Exploitation of Remote Services](Lateral%20Movement/Exploitation%20of%20Remote%20Services/README.md)
 - [x] [Logon Scripts](Lateral%20Movement/Logon%20Scripts/README.md)
+- [x] [Pass the Hash](Lateral%20Movement/Pass%20the%20Hash/readme.md)
+- [ ] [Pass the Ticket](Lateral%20Movement/Pass%20the%20Ticket/readme.md)
+- [x] [Remote Desktop Protocol](Lateral%20Movement/Remote%20Desktop%20Protocol/README.md)
+- [x] [Remote File Copy](Lateral%20Movement/Remote%20File%20Copy/README.md)
+- [ ] [Third-party Software](Lateral%20Movement/Third-party%20Software/T1072%20-%20Third-party%20Software.md)
 
 ## Collection
 - [ ] [Data from Local System](Collection/Data%20from%20Local%20System/README.md)
