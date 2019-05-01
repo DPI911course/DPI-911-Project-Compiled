@@ -10,7 +10,7 @@ Attack 1: ```C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:libra
 
 Attack 2: ```C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /logfile= /LogToConsole=false /U #{filename}```
 
-![](../images/T1118_Execute.PNG)
+![](pictures/T1118_Execute.PNG)
 
 ## Detection -- Visibility -- Filter/ Correlation Rule
 
