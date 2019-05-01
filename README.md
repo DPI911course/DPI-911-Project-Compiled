@@ -152,4 +152,9 @@ This repo is a compiled version of the following groups projects for the DPI911 
 ## Command and Control
 - [x] [Connection Proxy](Command%20and%20Control/Connection%20Proxy/README.md)
 - [ ] [Custom Command and Control Protocol](Command%20and%20Control/Custom%20Command%20and%20Control%20Protocol/README.md)
+- [ ] [Custom Cryptographic Protocol](Command%20and%20Control/Custom%20Cryptographic%20Protocol/readme.md)
+- [ ] [Data Encoding](Command%20and%20Control/Data%20Encoding/readme.md)
+- [ ] [Multilayer Encryption](Command%20and%20Control/Multilayer%20Encryption/T1079%20-%20Multilayer%20Encryption.md)
+- [ ] [Remote Access Tools](Command%20and%20Control/Remote%20Access%20Tools/T1219%20-%20Remote%20Access%20Tools.md)
+- [ ] [Web Service](Command%20and%20Control/Web%20Service/Web%20Service%20-%20Command%20and%20Control.md)
 
