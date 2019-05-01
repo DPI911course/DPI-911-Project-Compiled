@@ -101,7 +101,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Regsvcs & Regasm](Defense%20Evasion/Regsvcs%20&%20Regasm/T1121%20-%20Regsvcs%20&%20Regasm.md)
 - [x] [Regsvr32](Defense%20Evasion/Regsvr32/T1117%20-%20Regsvr32.md)
 - [ ] [Rootkit](Defense%20Evasion/Rootkit/T1014%20-%20Rootkit.md)
-- [ ] [Rundll32](Defense%20Evasion/Rundll32/T1085%20-%20Rundll32.md)
+- [x] [Rundll32](Defense%20Evasion/Rundll32/T1085%20-%20Rundll32.md)
 - [x] [Scripting](Defense%20Evasion/Scripting/Scripting%20-%20Defense%20Evasion.md)
 
 ## Credential Access
