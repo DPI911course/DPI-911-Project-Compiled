@@ -107,6 +107,12 @@ This repo is a compiled version of the following groups projects for the DPI911 
 ## Credential Access
 - [x] [Credential Dumping](Credential%20Access/Credential%20Dumping/README.md)
 - [x] [Credentials in Files](Credential%20Access/Credentials%20in%20Files/README.md)
+- [x] [Credentials in Registry](Credential%20Access/Credentials%20in%20Registry/readme.md)
+- [ ] [Exploitation for Credential Access](Credential%20Access/Exploitation%20for%20Credential%20Access/readme.md)
+- [x] [Forced Authentication](Credential%20Access/Forced%20Authentication/README.md)
+- [x] [Hooking](Credential%20Access/Hooking/README.md)
+- [ ] [Password Filter DLL](Credential%20Access/Password%20Filter%20DLL/T1174%20-%20Password%20Filter%20DLL.md)
+- [ ] [Two-Factor Authentication Interception](Credential%20Access/Two-Factor%20Authentication%20Interception/Two-Factor%20Authentication%20Interception.md)
 
 ## Discovery
 - [ ] [Peripheral Device Discovery](Discovery/Peripheral%20Device%20Discovery/README.md)
