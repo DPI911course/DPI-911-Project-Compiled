@@ -12,6 +12,9 @@ This repo is a compiled version of the following groups projects for the DPI911 
 
 ## Initial Access
 - [x] [Exploit Public-Facing Application](Initial%20Access/Exploit%20Public-Facing%20Application/README.md)
+- [x] [Hardware Additions](Initial%20Access/Hardware%20Additions/README.md)
+- [x] [Replication Through Removable Media](Initial%20Access/Replication%20Through%20Removable%20Media/README.md)
+- [x] [Supply Chain Compromise](Initial%20Access/Supply%20Chain%20Compromise/Supply%20Chain%20Compromise.md)
 
 ### Execution
 - [x] [Control Panel Items](Execution/Control%20Panel%20Items/README.md)
