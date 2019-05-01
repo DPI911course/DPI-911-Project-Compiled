@@ -137,7 +137,11 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [ ] [Third-party Software](Lateral%20Movement/Third-party%20Software/T1072%20-%20Third-party%20Software.md)
 
 ## Collection
+- [x] [Clipboard Data](Collection/Clipboard%20Data/Clipboard%20Data.md)
 - [ ] [Data from Local System](Collection/Data%20from%20Local%20System/README.md)
+- [x] [Data from Network Shared Drive](Collection/Data%20from%20Network%20Shared%20Drive/Readme.md)
+- [x] [Input Capture](Collection/Input%20Capture/T1056%20-%20Input%20Capture.md)
+- [x] [Screen Capture](Collection/Screen%20Capture/README.md)
 
 ## Exfiltration
 - [x] [Data Compressed](Exfiltration/Data%20Compressed/README.md)
