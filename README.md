@@ -81,7 +81,6 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Control Panel Items](Defense%20Evasion/Control%20Panel%20Items/README.md)
 - [x] [DCShadow](Defense%20Evasion/DCShadow/README.md)
 - [x] [DLL Search Order Hijacking](Defense%20Evasion/DLL%20Search%20Order%20Hijacking/README.md)
-
 - [x] [DLL Side Loading](Defense%20Evasion/DLL%20Side%20Loading/readme.md)
 - [x] [Deobfuscate Decode Files or Information](Defense%20Evasion/Deobfuscate%20Decode%20Files%20or%20Information/README.md)
 - [x] [Disabling Security Tools](Defense%20Evasion/Disabling%20Security%20Tools/Readme.md)
