@@ -53,7 +53,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Port Monitors](Persistence/Port%20Monitors/README.md)
 - [ ] [Redundant Access](Persistence/Redundant%20Access/README.md)
 - [x] [Registry Run Keys and Startup Folder](Persistence/Registry%20Run%20Keys%20and%20Startup%20Folder/README.md)
-- [x] [SIP and Trust Provider Hijacking](Persistence/SIP%20and%20Trust%20Provider%20Hijacking/README.md)
+- [x] [SIP and Trust Provider Hijacking](Persistence/SIP%20and%20Trust%20Provider%20Hijacking/Readme.md)
 - [x] [Scheduled Task](Persistence/Scheduled%20Task/readme.md)
 - [x] [Screensaver](Persistence/Screensaver/README.md)
 - [x] [Security Support Provider](Persistence/Security%20Support%20Provider/README.md)
