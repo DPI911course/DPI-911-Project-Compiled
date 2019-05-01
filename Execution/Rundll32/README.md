@@ -1,4 +1,3 @@
-_______________________________________________________________________________________________________________
 Technique Description: Rundll32.exe (T1085)
 ------------------------------------
 Rundll32.exe is a Windows program that allows for execution of binaries. This can be used by attackers as a defense evasion 
