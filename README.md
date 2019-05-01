@@ -145,6 +145,9 @@ This repo is a compiled version of the following groups projects for the DPI911 
 
 ## Exfiltration
 - [x] [Data Compressed](Exfiltration/Data%20Compressed/README.md)
+- [x] [Data Encrypted](Exfiltration/Data%20Encrypted/Readme.md)
+- [x] [Data Transfer Size Limits](Exfiltration/Data%20Transfer%20Size%20Limits/README.md)
+- [ ] [Exfiltration Over Other Meduim](Exfiltration/Exfiltration%20Over%20Other%20Meduim/T1011%20-%20Exfiltration%20Over%20Other%20Meduim.md)
 
 ## Command and Control
 - [x] [Connection Proxy](Command%20and%20Control/Connection%20Proxy/README.md)
