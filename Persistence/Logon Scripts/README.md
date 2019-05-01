@@ -10,7 +10,7 @@ If adversaries can access these scripts, they may insert additional code into th
 
 **Potential Attacks:** ```REG.exe ADD HKCU\Environment /v UserInitMprLogonScript /t REG_MULTI_SZ /d “cmd.exe /c calc.exe”```
 
-![](../images/T1037_Execute.PNG)
+![](pictures/T1037_Execute.PNG)
 
 
 ## Detection -- Visibility -- Filter/ Correlation Rule
