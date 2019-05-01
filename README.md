@@ -65,6 +65,14 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Exploitation for Privilege Escalation](Privilege%20Escalation/Exploitation%20for%20Privilege%20Escalation/README.md)
 - [ ] [Extra Window Memory Injection](Privilege%20Escalation/Extra%20Window%20Memory%20Injection/README.md)
 - [x] [File System Permissions Weakness](Privilege%20Escalation/File%20System%20Permissions%20Weakness/README.md)
+- [ ] [Hooking](Privilege%20Escalation/Hooking/readme.md)
+- [x] [Image File Execution Options Injection](Privilege%20Escalation/Image%20File%20Execution%20Options%20Injection/README.md)
+- [x] [New Service](Privilege%20Escalation/New%20Service/README.md)
+- [x] [Path Interception](Privilege%20Escalation/Path%20Interception/README.md)
+- [x] [Port Monitors](Privilege%20Escalation/Port%20Monitors/README.md)
+- [x] [Process Injection](Privilege%20Escalation/Process%20Injection/README.md)
+- [x] [Scheduled Task](Privilege%20Escalation/Scheduled%20Task/README.md)
+- [x] [Web Shell](Privilege%20Escalation/Web%20Shell/Web%20Shell.md)
 
 ## Defense Evasion
 - [x] [Compiled HTML File](Defense%20Evasion/Compiled%20HTML%20File/README.md)
