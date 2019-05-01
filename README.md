@@ -115,8 +115,17 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [ ] [Two-Factor Authentication Interception](Credential%20Access/Two-Factor%20Authentication%20Interception/Two-Factor%20Authentication%20Interception.md)
 
 ## Discovery
+- [x] [Network Service Scanning](Discovery/Network%20Service%20Scanning/Network Service Scanning.md)
 - [ ] [Peripheral Device Discovery](Discovery/Peripheral%20Device%20Discovery/README.md)
 - [x] [Permission Groups Discovery](Discovery/Permission%20Groups%20Discovery/README.md)
+- [x] [Process Discovery](Discovery/Process%20Discovery/Readme.md)
+- [x] [Query Registry](Discovery/Query%20Registry/Readme.md)
+- [x] [Remote System Discovery](Discovery/Remote%20System%20Discovery/README.md)
+- [x] [Security Software Discovery](Discovery/Security%20Software%20Discovery/README.md)
+- [x] [System Information Discovery](Discovery/System%20Information%20Discovery/README.md)
+- [x] [System Network Configuration Discovery](Discovery/System%20Network%20Configuration%20Discovery/README.md)
+- [x] [System Service Discovery](Discovery/System%20Service%20Discovery/T1007%20-%20System%20Service%20Discovery.md)
+- [x] [System Time Discovery](Discovery/System%20Time%20Discovery/T1124%20-%20System%20Time%20Discovery.md)
 
 ## Lateral Movement
 - [x] [Exploitation of Remote Services](Lateral%20Movement/Exploitation%20of%20Remote%20Services/README.md)
