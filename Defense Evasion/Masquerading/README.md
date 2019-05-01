@@ -6,7 +6,7 @@ This occurs when a payload or any malicious file is modified so that its locatio
 
 **Potential Attacks:** ```cmd.exe /c copy %SystemRoot%\System32\cmd.exe %SystemRoot%\Temp\lsass.exe```
 
-![](../images/T1036_Execute.PNG)
+![](pictures/T1036_Execute.PNG)
 
 ## Detection -- Visibility -- Filter/ Correlation Rule
 
