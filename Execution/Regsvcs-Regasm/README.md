@@ -20,7 +20,7 @@ del #{file_name}
 
 del key.snk
 
-![](../images/T1121_Execute.PNG)
+![](pictures/T1121_Execute.PNG)
 
 ## Detection -- Visibility -- Filter/ Correlation Rule
 
