@@ -39,7 +39,6 @@ This repo is a compiled version of the following group projects for the DPI911 W
 
 
 ## Persistence
-
 - [x] [AppInit DLLs](Persistence/AppInit%20DLLs/README.md)
 - [x] [Application Shimming](Persistence/Application%20Shimming/README.md)
 - [x] [BITS Jobs](Persistence/BITS%20Jobs/README.md)
@@ -104,7 +103,7 @@ This repo is a compiled version of the following group projects for the DPI911 W
 - [x] [Indirect Command Execution](Defense%20Evasion/Indirect%20Command%20Execution/README.md)
 - [x] [InstallUtil](Defense%20Evasion/InstallUtil/README.md)
 - [x] [Masquerading](Defense%20Evasion/Masquerading/README.md)
-- [x] [Mshta](Defense%20Evasion/Mshta/READMD.md)
+- [x] [Mshta](Defense%20Evasion/Mshta/README.md)
 - [x] [NTFS File Attributes](Defense%20Evasion/NTFS%20File%20Attributes/README.md)
 - [x] [Network Share Connection Removal](Defense%20Evasion/Network%20Share%20Connection%20Removal/README.md)
 - [ ] [Process Doppelganging](Defense%20Evasion/Process%20Doppelganging/README.md)
