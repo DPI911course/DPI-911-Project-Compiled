@@ -125,8 +125,8 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [ ] [Exploitation for Credential Access](Credential%20Access/Exploitation%20for%20Credential%20Access/readme.md)
 - [x] [Forced Authentication](Credential%20Access/Forced%20Authentication/README.md)
 - [x] [Hooking](Credential%20Access/Hooking/README.md)
-- [x] [Network Sniffing](Credential%20Access/Network Sniffing/README.md)
-- [ ] [LLMNR/NBT-NS Poisoning](Credential%20Access/LLMNR/NBT-NS Poisoning/README.md)
+- [x] [Network Sniffing](Credential%20Access/Network%20Sniffing/README.md)
+- [ ] [LLMNR/NBT-NS Poisoning](Credential%20Access/LLMNR/NBT-NS%20Poisoning/README.md)
 - [ ] [Password Filter DLL](Credential%20Access/Password%20Filter%20DLL/T1174%20-%20Password%20Filter%20DLL.md)
 - [ ] [Two-Factor Authentication Interception](Credential%20Access/Two-Factor%20Authentication%20Interception/Two-Factor%20Authentication%20Interception.md)
 
@@ -144,7 +144,6 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [System Owner/User Discovery](Discovery/System%20Owner%20User%20Discovery/README.md)
 - [x] [System Service Discovery](Discovery/System%20Service%20Discovery/T1007%20-%20System%20Service%20Discovery.md)
 - [x] [System Time Discovery](Discovery/System%20Time%20Discovery/T1124%20-%20System%20Time%20Discovery.md)
--
 
 ## Lateral Movement
 - [x] [Exploitation of Remote Services](Lateral%20Movement/Exploitation%20of%20Remote%20Services/README.md)
@@ -182,5 +181,5 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [ ] [Web Service](Command%20and%20Control/Web%20Service/Web%20Service%20-%20Command%20and%20Control.md)
 - [ ] [Multi-hop Proxy](Command%20and%20Control/Multi-hop%20Proxy/README.md)
 - [ ] [Multiband Communication](Command%20and%20Control/Multiband%20Communication/README.md)
-- [ ] [Uncommonly Used Port](Command%20and%20Control/Uncommonly Used Port/README.md)
+- [ ] [Uncommonly Used Port](Command%20and%20Control/Uncommonly%20Used%20Port/README.md)
 
