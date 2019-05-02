@@ -41,7 +41,7 @@ This repo is a compiled version of the following group projects for the DPI911 W
 ## Persistence
 - [x] [AppInit DLLs](Persistence/AppInit%20DLLs/README.md)
 - [x] [Application Shimming](Persistence/Application%20Shimming/README.md)
-- [x] [Authentication Package](Persistence/Authentication%20Package/README.md)
+- [ ] [Authentication Package](Persistence/Authentication%20Package/README.md)
 - [x] [BITS Jobs](Persistence/BITS%20Jobs/README.md)
 - [x] [Browser Extensions](Persistence/Browser%20Extensions/Browser%20Extensions%20-%20Persistence.md)
 - [x] [Change Default File Association](Persistence/Change%20Default%20File%20Association/Change%20Default%20File%20Association.md)
