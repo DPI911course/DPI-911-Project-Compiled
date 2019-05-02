@@ -126,7 +126,7 @@ This repo is a compiled version of the following group projects for the DPI911 W
 - [x] [Forced Authentication](Credential%20Access/Forced%20Authentication/README.md)
 - [x] [Hooking](Credential%20Access/Hooking/README.md)
 - [x] [Network Sniffing](Credential%20Access/Network%20Sniffing/README.md)
-- [ ] [LLMNR/NBT-NS Poisoning](Credential%20Access/LLMNR/NBT-NS%20Poisoning/README.md)
+- [ ] [LLMNR/NBT-NS Poisoning](Credential%20Access/LLMNR%20NBT-NS%20Poisoning/README.md)
 - [ ] [Password Filter DLL](Credential%20Access/Password%20Filter%20DLL/T1174%20-%20Password%20Filter%20DLL.md)
 - [ ] [Two-Factor Authentication Interception](Credential%20Access/Two-Factor%20Authentication%20Interception/Two-Factor%20Authentication%20Interception.md)
 
