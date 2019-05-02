@@ -9,7 +9,8 @@ We assume that the attacker has socially engineeered an employee to get their cr
 Execution
 -------------
 net user /add hacker p@ssw0rd!2d
- Detection 
+ 
+Detection 
 -------------
 Monitor for suspicious account activities within the network and perform audits of the domain and local system accounts to find accounts that could be created and used by attacker for persistence
 
