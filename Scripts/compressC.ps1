@@ -1,0 +1,1 @@
+& 'C:\Program Files\WinRAR\Rar.exe' a -df test.rar C:\*

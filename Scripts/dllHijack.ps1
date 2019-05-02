@@ -1,0 +1,1 @@
+Copy-Item -Path "C:\Users\vagrant\Desktop\kernel32.dll" -Destination "C:\Windows\System32\kerneI32.dll"

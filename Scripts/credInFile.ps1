@@ -1,0 +1,1 @@
+findstr /si pass *.xml
