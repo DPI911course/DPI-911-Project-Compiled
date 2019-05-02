@@ -79,7 +79,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Port Monitors](Privilege%20Escalation/Port%20Monitors/README.md)
 - [x] [Process Injection](Privilege%20Escalation/Process%20Injection/README.md)
 - [x] [Scheduled Task](Privilege%20Escalation/Scheduled%20Task/README.md)
-- [x] [Valid Accounts](Privilege%20Escalation/Valid Accounts/README.md)
+- [x] [Valid Accounts](Privilege%20Escalation/Valid%20Accounts/README.md)
 - [x] [Web Shell](Privilege%20Escalation/Web%20Shell/Web%20Shell.md)
 
 ## Defense Evasion
