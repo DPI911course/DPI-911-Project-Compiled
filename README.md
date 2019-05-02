@@ -181,5 +181,5 @@ This repo is a compiled version of the following group projects for the DPI911 W
 - [ ] [Web Service](Command%20and%20Control/Web%20Service/Web%20Service%20-%20Command%20and%20Control.md)
 - [ ] [Multi-hop Proxy](Command%20and%20Control/Multi-hop%20Proxy/README.md)
 - [ ] [Multiband Communication](Command%20and%20Control/Multiband%20Communication/README.md)
-- [ ] [Uncommonly Used Port](Command%20and%20Control/Uncommonly%20Used%20Port/README.md)
+- [x] [Uncommonly Used Port](Command%20and%20Control/Uncommonly%20Used%20Port/README.md)
 
