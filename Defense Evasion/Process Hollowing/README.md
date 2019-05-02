@@ -5,6 +5,7 @@ This happens when there is a process being created during a suspended state wher
 Assumptions 
 -------------
 We assume that there is a suspeneded process and that the attacker has already gained access to the system.
+
 Execution 
 -------------
 Osquery:
