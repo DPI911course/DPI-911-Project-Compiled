@@ -1,7 +1,7 @@
 # Compiled DPI911-Project
 ## Project Outline
 
-This repo is a compiled version of the following groups projects for the DPI911 Winter Class of 2019.  
+This repo is a compiled version of the following group projects for the DPI911 Winter Class of 2019.  
 [Group 2](https://github.com/kwburns/DPI911-Project/)  
 [Group 3](https://github.com/ayusuf15/DPI911SSA-Project-Group3)  
 [Group 4](https://github.com/kaegeh/DPI911-Project)  
