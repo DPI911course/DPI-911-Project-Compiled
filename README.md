@@ -15,6 +15,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Hardware Additions](Initial%20Access/Hardware%20Additions/README.md)
 - [x] [Replication Through Removable Media](Initial%20Access/Replication%20Through%20Removable%20Media/README.md)
 - [x] [Supply Chain Compromise](Initial%20Access/Supply%20Chain%20Compromise/Supply%20Chain%20Compromise.md)
+- [ ] [Spearphishing Link](Initial%20Access/Spearphishing%20Link/README.md)
 
 ### Execution
 - [x] [Control Panel Items](Execution/Control%20Panel%20Items/README.md)
@@ -29,6 +30,8 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [PowerShell](Execution/PowerShell/README.md)
 - [x] [Regsvcs-Regasm](Execution/Regsvcs-Regasm/README.md)
 - [x] [Rundll32](Execution/Rundll32/README.md)
+- [x] [Scripting](Execution/Scripting/README.md)
+- [x] [Scheduled Task](Execution/Scheduled%20Task/README.md)
 - [x] [Service Execution](Execution/Service%20Execution/Service%20Execution.md)
 - [x] [Signed Binary Proxy Execution](Execution/Signed%20Binary%20Proxy%20Execution/T1218%20-%20Signed%20Binary%20Proxy%20Execution.md)
 - [x] [Signed Script Proxy Execution](Execution/Signed%20Script%20Proxy%20Execution/T1216%20-%20Signed%20Script%20Proxy%20Execution.md)
@@ -37,6 +40,9 @@ This repo is a compiled version of the following groups projects for the DPI911 
 
 ## Persistence
 
+- [x] [AppInit DLLs](Persistence/AppInit%20DLLs/README.md)
+- [x] [Application Shimming](Persistence/Application%20Shimming/README.md)
+- [x] [BITS Jobs](Persistence/BITS%20Jobs/README.md)
 - [x] [Browser Extensions](Persistence/Browser%20Extensions/Browser%20Extensions%20-%20Persistence.md)
 - [x] [Change Default File Association](Persistence/Change%20Default%20File%20Association/Change%20Default%20File%20Association.md)
 - [x] [Create Account](Persistence/Create%20Account/T1136%20-%20Create%20Account.md)
@@ -73,6 +79,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Port Monitors](Privilege%20Escalation/Port%20Monitors/README.md)
 - [x] [Process Injection](Privilege%20Escalation/Process%20Injection/README.md)
 - [x] [Scheduled Task](Privilege%20Escalation/Scheduled%20Task/README.md)
+- [x] [Valid Accounts](Privilege%20Escalation/Valid Accounts/README.md)
 - [x] [Web Shell](Privilege%20Escalation/Web%20Shell/Web%20Shell.md)
 
 ## Defense Evasion
@@ -97,6 +104,12 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Indirect Command Execution](Defense%20Evasion/Indirect%20Command%20Execution/README.md)
 - [x] [InstallUtil](Defense%20Evasion/InstallUtil/README.md)
 - [x] [Masquerading](Defense%20Evasion/Masquerading/README.md)
+- [x] [Mshta](Defense%20Evasion/Mshta/READMD.md)
+- [x] [NTFS File Attributes](Defense%20Evasion/NTFS%20File%20Attributes/README.md)
+- [x] [Network Share Connection Removal](Defense%20Evasion/Network%20Share%20Connection%20Removal/README.md)
+- [ ] [Process Doppelganging](Defense%20Evasion/Process%20Doppelganging/README.md)
+- [x] [Process Hollowing](Defense%20Evasion/Process%20Hollowing/README.md)
+- [ ] [Obfuscated Files or Information](Defense%20Evasion/Obfuscated%20Files%20or%20Information/README.md)
 - [x] [Process Injection](Defense%20Evasion/Process%20Injection/T1055%20-%20Process%20Injection.md)
 - [ ] [Redundant Access](Defense%20Evasion/Redundant%20Access/T1108%20-%20Redundant%20Access.md)
 - [x] [Regsvcs & Regasm](Defense%20Evasion/Regsvcs%20&%20Regasm/T1121%20-%20Regsvcs%20&%20Regasm.md)
@@ -112,6 +125,8 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [ ] [Exploitation for Credential Access](Credential%20Access/Exploitation%20for%20Credential%20Access/readme.md)
 - [x] [Forced Authentication](Credential%20Access/Forced%20Authentication/README.md)
 - [x] [Hooking](Credential%20Access/Hooking/README.md)
+- [x] [Network Sniffing](Credential%20Access/Network Sniffing/README.md)
+- [ ] [LLMNR/NBT-NS Poisoning](Credential%20Access/LLMNR/NBT-NS Poisoning/README.md)
 - [ ] [Password Filter DLL](Credential%20Access/Password%20Filter%20DLL/T1174%20-%20Password%20Filter%20DLL.md)
 - [ ] [Two-Factor Authentication Interception](Credential%20Access/Two-Factor%20Authentication%20Interception/Two-Factor%20Authentication%20Interception.md)
 
@@ -125,8 +140,11 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Security Software Discovery](Discovery/Security%20Software%20Discovery/README.md)
 - [x] [System Information Discovery](Discovery/System%20Information%20Discovery/README.md)
 - [x] [System Network Configuration Discovery](Discovery/System%20Network%20Configuration%20Discovery/README.md)
+- [x] [System Network Connections Discovery](Discovery/System%20Network%20Connections%20Discovery/README.md)
+- [x] [System Owner/User Discovery](Discovery/System%20Owner%20User%20Discovery/README.md)
 - [x] [System Service Discovery](Discovery/System%20Service%20Discovery/T1007%20-%20System%20Service%20Discovery.md)
 - [x] [System Time Discovery](Discovery/System%20Time%20Discovery/T1124%20-%20System%20Time%20Discovery.md)
+-
 
 ## Lateral Movement
 - [x] [Exploitation of Remote Services](Lateral%20Movement/Exploitation%20of%20Remote%20Services/README.md)
@@ -136,6 +154,8 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Remote Desktop Protocol](Lateral%20Movement/Remote%20Desktop%20Protocol/README.md)
 - [x] [Remote File Copy](Lateral%20Movement/Remote%20File%20Copy/README.md)
 - [ ] [Third-party Software](Lateral%20Movement/Third-party%20Software/T1072%20-%20Third-party%20Software.md)
+- [ ] [Shared Webroot](Lateral%20Movement/Shared%20Webroot/README.md)
+- [ ] [Taint Shared Content](Lateral%20Movement/Taint%20Shared%20Content/README.md)
 
 ## Collection
 - [x] [Clipboard Data](Collection/Clipboard%20Data/Clipboard%20Data.md)
@@ -143,12 +163,14 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [x] [Data from Network Shared Drive](Collection/Data%20from%20Network%20Shared%20Drive/Readme.md)
 - [x] [Input Capture](Collection/Input%20Capture/T1056%20-%20Input%20Capture.md)
 - [x] [Screen Capture](Collection/Screen%20Capture/README.md)
+- [ ] [Email Collection](Collection/Email%20Collection/README.md)
 
 ## Exfiltration
 - [x] [Data Compressed](Exfiltration/Data%20Compressed/README.md)
 - [x] [Data Encrypted](Exfiltration/Data%20Encrypted/Readme.md)
 - [x] [Data Transfer Size Limits](Exfiltration/Data%20Transfer%20Size%20Limits/README.md)
 - [ ] [Exfiltration Over Other Meduim](Exfiltration/Exfiltration%20Over%20Other%20Meduim/T1011%20-%20Exfiltration%20Over%20Other%20Meduim.md)
+- [ ] [Exfiltration Over Command and Control Channel](Exfiltration/Exfiltration%20Over%20Command%20and%20Control%20Channel/README.md)
 
 ## Command and Control
 - [x] [Connection Proxy](Command%20and%20Control/Connection%20Proxy/README.md)
@@ -158,4 +180,7 @@ This repo is a compiled version of the following groups projects for the DPI911 
 - [ ] [Multilayer Encryption](Command%20and%20Control/Multilayer%20Encryption/T1079%20-%20Multilayer%20Encryption.md)
 - [ ] [Remote Access Tools](Command%20and%20Control/Remote%20Access%20Tools/T1219%20-%20Remote%20Access%20Tools.md)
 - [ ] [Web Service](Command%20and%20Control/Web%20Service/Web%20Service%20-%20Command%20and%20Control.md)
+- [ ] [Multi-hop Proxy](Command%20and%20Control/Multi-hop%20Proxy/README.md)
+- [ ] [Multiband Communication](Command%20and%20Control/Multiband%20Communication/README.md)
+- [ ] [Uncommonly Used Port](Command%20and%20Control/Uncommonly Used Port/README.md)
 
