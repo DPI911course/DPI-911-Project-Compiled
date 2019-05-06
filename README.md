@@ -1,14 +1,13 @@
 # Compiled DPI911-Project
 ## Project Outline
+Professor: Mohammad Reza Faghani, PhD
 
-This repo is a compiled version of the following group projects for the DPI911 Winter Class of 2019.  
-[Group 2](https://github.com/kwburns/DPI911-Project/)  
-[Group 3](https://github.com/ayusuf15/DPI911SSA-Project-Group3)  
-[Group 4](https://github.com/kaegeh/DPI911-Project)  
-[Group 5](https://github.com/drjgrant/Mitre-Att-ck-Detection-with-Splunk)  
-[Group 6](https://github.com/myu31/dpi911/blob/master/dpi911.md)  
-[Group 7](https://github.com/ammcconnell2/DPI911---MITRE-ATT-CK-Project)  
-[Group 8](https://github.com/rpanchal93/DPI911-Project)
+### Coruse Outline:
+https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=DPI911
+
+
+### Disclaimer
+This project is not intended for production use. It was created to demonstrate potential solutions for the detection and alerting of adversary tactics and techniques related to the [MITRE ATT&CK™](https://attack.mitre.org/).
 
 ## Initial Access
 - [x] [Exploit Public-Facing Application](Initial%20Access/Exploit%20Public-Facing%20Application/README.md)
@@ -182,4 +181,16 @@ This repo is a compiled version of the following group projects for the DPI911 W
 - [ ] [Multi-hop Proxy](Command%20and%20Control/Multi-hop%20Proxy/README.md)
 - [ ] [Multiband Communication](Command%20and%20Control/Multiband%20Communication/README.md)
 - [x] [Uncommonly Used Port](Command%20and%20Control/Uncommonly%20Used%20Port/README.md)
+
+
+## Reference
+
+This repo is a compiled version of the following group projects for the DPI911 Winter Class of 2019.  
+[kwburns](https://github.com/kwburns/DPI911-Project/)  
+[ayusuf15](https://github.com/ayusuf15/DPI911SSA-Project-Group3)  
+[kaegeh](https://github.com/kaegeh/DPI911-Project)  
+[drjgrant](https://github.com/drjgrant/Mitre-Att-ck-Detection-with-Splunk)  
+[myu31](https://github.com/myu31/dpi911/blob/master/dpi911.md)  
+[ammcconnell2](https://github.com/ammcconnell2/DPI911---MITRE-ATT-CK-Project)  
+[rpanchal93](https://github.com/rpanchal93/DPI911-Project)
 
