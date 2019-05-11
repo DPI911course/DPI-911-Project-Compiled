@@ -18,14 +18,14 @@ Upon successful completion of this subject the student will be able to:<sup>[1](
 - Implement containment, eradication and improved controls to resume normal system operation after a security incident  
 - Develop strategic recommendations from incident analysis which will initiate change in security policy
 
+### Professor
+Mohammad Reza Faghani, PhD
 
 ### Disclaimer
 This project is not intended for production use. It was created to demonstrate potential solutions for the detection and alerting of adversary tactics and techniques related to the [MITRE ATT&CK™](https://attack.mitre.org/).
 
-### Professor
-Mohammad Reza Faghani, PhD
-
-## Initial Access
+## Tactics and Techniques
+### Initial Access
 - [x] [Exploit Public-Facing Application](Initial%20Access/Exploit%20Public-Facing%20Application/README.md)
 - [x] [Hardware Additions](Initial%20Access/Hardware%20Additions/README.md)
 - [x] [Replication Through Removable Media](Initial%20Access/Replication%20Through%20Removable%20Media/README.md)
@@ -53,7 +53,7 @@ Mohammad Reza Faghani, PhD
 - [x] [Third-Party Software](Execution/Third-Party%20Software/Third-Party%20Software%20-%20Execution.md)
 
 
-## Persistence
+### Persistence
 - [x] [AppInit DLLs](Persistence/AppInit%20DLLs/README.md)
 - [x] [Application Shimming](Persistence/Application%20Shimming/README.md)
 - [ ] [Authentication Package](Persistence/Authentication%20Package/README.md)
@@ -83,7 +83,7 @@ Mohammad Reza Faghani, PhD
 - [x] [Shortcut Modification](Persistence/Shortcut%20Modification/README.md)
 - [ ] [System Firmware](Persistence/System%20Firmware/README.md)
 
-## Privilege Escalation
+### Privilege Escalation
 - [x] [Exploitation for Privilege Escalation](Privilege%20Escalation/Exploitation%20for%20Privilege%20Escalation/README.md)
 - [ ] [Extra Window Memory Injection](Privilege%20Escalation/Extra%20Window%20Memory%20Injection/README.md)
 - [x] [File System Permissions Weakness](Privilege%20Escalation/File%20System%20Permissions%20Weakness/README.md)
@@ -97,7 +97,7 @@ Mohammad Reza Faghani, PhD
 - [x] [Valid Accounts](Privilege%20Escalation/Valid%20Accounts/README.md)
 - [x] [Web Shell](Privilege%20Escalation/Web%20Shell/Web%20Shell.md)
 
-## Defense Evasion
+### Defense Evasion
 - [x] [Compiled HTML File](Defense%20Evasion/Compiled%20HTML%20File/README.md)
 - [ ] [Component Firmware](Defense%20Evasion/Component%20Firmware/README.md)
 - [x] [Component Object Model Hijacking](Defense%20Evasion/Component%20Object%20Model%20Hijacking/README.md)
@@ -133,7 +133,7 @@ Mohammad Reza Faghani, PhD
 - [x] [Rundll32](Defense%20Evasion/Rundll32/T1085%20-%20Rundll32.md)
 - [x] [Scripting](Defense%20Evasion/Scripting/Scripting%20-%20Defense%20Evasion.md)
 
-## Credential Access
+### Credential Access
 - [x] [Credential Dumping](Credential%20Access/Credential%20Dumping/README.md)
 - [x] [Credentials in Files](Credential%20Access/Credentials%20in%20Files/README.md)
 - [x] [Credentials in Registry](Credential%20Access/Credentials%20in%20Registry/readme.md)
@@ -145,7 +145,7 @@ Mohammad Reza Faghani, PhD
 - [ ] [Password Filter DLL](Credential%20Access/Password%20Filter%20DLL/T1174%20-%20Password%20Filter%20DLL.md)
 - [ ] [Two-Factor Authentication Interception](Credential%20Access/Two-Factor%20Authentication%20Interception/Two-Factor%20Authentication%20Interception.md)
 
-## Discovery
+### Discovery
 - [x] [Network Service Scanning](Discovery/Network%20Service%20Scanning/Network%20Service%20Scanning.md)
 - [ ] [Peripheral Device Discovery](Discovery/Peripheral%20Device%20Discovery/README.md)
 - [x] [Permission Groups Discovery](Discovery/Permission%20Groups%20Discovery/README.md)
@@ -160,7 +160,7 @@ Mohammad Reza Faghani, PhD
 - [x] [System Service Discovery](Discovery/System%20Service%20Discovery/T1007%20-%20System%20Service%20Discovery.md)
 - [x] [System Time Discovery](Discovery/System%20Time%20Discovery/T1124%20-%20System%20Time%20Discovery.md)
 
-## Lateral Movement
+### Lateral Movement
 - [x] [Exploitation of Remote Services](Lateral%20Movement/Exploitation%20of%20Remote%20Services/README.md)
 - [x] [Logon Scripts](Lateral%20Movement/Logon%20Scripts/README.md)
 - [x] [Pass the Hash](Lateral%20Movement/Pass%20the%20Hash/readme.md)
@@ -171,7 +171,7 @@ Mohammad Reza Faghani, PhD
 - [ ] [Shared Webroot](Lateral%20Movement/Shared%20Webroot/README.md)
 - [ ] [Taint Shared Content](Lateral%20Movement/Taint%20Shared%20Content/README.md)
 
-## Collection
+### Collection
 - [x] [Clipboard Data](Collection/Clipboard%20Data/Clipboard%20Data.md)
 - [ ] [Data from Local System](Collection/Data%20from%20Local%20System/README.md)
 - [x] [Data from Network Shared Drive](Collection/Data%20from%20Network%20Shared%20Drive/Readme.md)
@@ -179,14 +179,14 @@ Mohammad Reza Faghani, PhD
 - [x] [Screen Capture](Collection/Screen%20Capture/README.md)
 - [ ] [Email Collection](Collection/Email%20Collection/README.md)
 
-## Exfiltration
+### Exfiltration
 - [x] [Data Compressed](Exfiltration/Data%20Compressed/README.md)
 - [x] [Data Encrypted](Exfiltration/Data%20Encrypted/Readme.md)
 - [x] [Data Transfer Size Limits](Exfiltration/Data%20Transfer%20Size%20Limits/README.md)
 - [ ] [Exfiltration Over Other Meduim](Exfiltration/Exfiltration%20Over%20Other%20Meduim/T1011%20-%20Exfiltration%20Over%20Other%20Meduim.md)
 - [ ] [Exfiltration Over Command and Control Channel](Exfiltration/Exfiltration%20Over%20Command%20and%20Control%20Channel/README.md)
 
-## Command and Control
+### Command and Control
 - [x] [Connection Proxy](Command%20and%20Control/Connection%20Proxy/README.md)
 - [ ] [Custom Command and Control Protocol](Command%20and%20Control/Custom%20Command%20and%20Control%20Protocol/README.md)
 - [ ] [Custom Cryptographic Protocol](Command%20and%20Control/Custom%20Cryptographic%20Protocol/readme.md)
