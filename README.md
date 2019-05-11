@@ -1,8 +1,6 @@
 # Compiled DPI911-Project
-## Project Outline
-Professor: Mohammad Reza Faghani, PhD
 
-### Coruse Outline:
+## Coruse Outline
 Despite best efforts, evolving computer threats mean that network defenses are frequently penetrated and security incidents have become a regular occurrence in our I.T. infrastructures. It is accepted that it is a matter of when, rather than if, an incident will occur. This course covers various aspects of computer incident response. Topics include incident response preparedness, incident detection and characterization, data collection, data analysis and remediation.<sup>[1](https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=DPI911)</sup>
   
 The course exposes you to various tools used in incident response industry such as: 
@@ -12,7 +10,7 @@ The course exposes you to various tools used in incident response industry such 
 - Redline
 - Sysmon
 
-### Learning Outcomes:
+### Learning Outcomes
 Upon successful completion of this subject the student will be able to:<sup>[1](https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=DPI911)</sup>
 - Explain the steps required to create incident response processes for security breaches in information systems  
 - Assemble and analyze data from a security incident to determine the nature and scope of the incident to formulate and execute remediation plans  
@@ -23,6 +21,9 @@ Upon successful completion of this subject the student will be able to:<sup>[1](
 
 ### Disclaimer
 This project is not intended for production use. It was created to demonstrate potential solutions for the detection and alerting of adversary tactics and techniques related to the [MITRE ATT&CK™](https://attack.mitre.org/).
+
+### Professor
+Mohammad Reza Faghani, PhD
 
 ## Initial Access
 - [x] [Exploit Public-Facing Application](Initial%20Access/Exploit%20Public-Facing%20Application/README.md)
