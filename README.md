@@ -3,7 +3,22 @@
 Professor: Mohammad Reza Faghani, PhD
 
 ### Coruse Outline:
-https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=DPI911
+Despite best efforts, evolving computer threats mean that network defenses are frequently penetrated and security incidents have become a regular occurrence in our I.T. infrastructures. It is accepted that it is a matter of when, rather than if, an incident will occur. This course covers various aspects of computer incident response. Topics include incident response preparedness, incident detection and characterization, data collection, data analysis and remediation.<sup>[1](https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=DPI911)</sup>
+  
+The course exposes you to various tools used in incident response industry such as: 
+- OsQuery
+- Splunk
+- Volatility
+- Redline
+- Sysmon
+
+### Learning Outcomes:
+Upon successful completion of this subject the student will be able to:<sup>[1](https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=DPI911)</sup>
+- Explain the steps required to create incident response processes for security breaches in information systems  
+- Assemble and analyze data from a security incident to determine the nature and scope of the incident to formulate and execute remediation plans  
+- Create a plan for containment, eradication and improved controls to alleviate harm incurred by a security incident  
+- Implement containment, eradication and improved controls to resume normal system operation after a security incident  
+- Develop strategic recommendations from incident analysis which will initiate change in security policy
 
 
 ### Disclaimer
